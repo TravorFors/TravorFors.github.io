@@ -20,7 +20,7 @@ redirect_from:
 # 🧍‍♂️ Biography
 I am now an undergraduate student in Zhejiang University. 
 
-I set up this personal website for the management of the projects I am attributing to. As a freshman, I am trying to find my rhythm of solving problems through surveying, team-working and feedback receiving from instruction or practice. I am willing to link up all my works under a goal of giving valuable solution to several problems.
+I set up this personal website for the management of the projects I am attributing to. At the beginning of my research, I am trying to find my rhythm of solving problems through surveying, team-working and feedback receiving from instruction or practice. I am willing to link up all my works under a shared goal of giving valuable solution to several problems.
 
 Some of my academic writings (either in class or during my reading) will also be updated on this website. The writings I put on this website will be the ones I regard useful to the field. I love writing with paper and pen, so most of the writings will be updated in the form of drafts. Most of the writings has uploaded to the cc98 bbs of Zhejiang University (www.cc98.org) and I will re-edit these document with LaTeX as long as they get enough feedback.
 
@@ -30,8 +30,9 @@ At present, my research interests include
 - **[Reliability Engineering](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:reliability_engineering)**
 - **[Condition Monitoring](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:condition_monitoring)**
 
-# 🔥 News
-- 
+# 🔥 Research Topics & Possible breakpoints
+- Cortex Analysis: RG theory for critical points
+- Tumor Metastasis Prediction: Pathway imaging & maximum-likelihood reconstruction, 3D Bio-modeling by NeRF+GNN
 
 # 📝 Projects
 - Fast Clinal Examination of Antibiotic Infections: Image analysis script & Fast Identification <br />
