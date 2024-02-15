@@ -36,7 +36,7 @@ At present, my research interests include
 
 # 📝 Projects
 - Fast Clinal Examination of Antibiotic Infections: Image analysis script & Fast Identification <br />
-  Type: SRTP (Research Training for Undergraduates) <br />
+  Type: Assistantship, SRTP (Research Training for Undergraduates) <br />
   Status: Preparing for the final defense <br />
   Co-worker : Minghao Li, Yan Shen <br />
   Supervisor: Jiahao Xu, Fenni Zhang <br />
