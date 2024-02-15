@@ -26,7 +26,7 @@ Some of my academic writings (either in class or during my reading) will also be
 
 At present, my research interests include 
 - **[Medical Imaging Analysis](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:Medical_Imaging_Analysis)**:
--
+- 
     If I am stuck in a rut, I will often try to build up the toolkits first. I will try to optimize the toolkits and gain a deeper understanding of the problem 
 - **[Reliability Engineering](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:reliability_engineering)**
 - **[Condition Monitoring](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:condition_monitoring)**
@@ -35,11 +35,11 @@ At present, my research interests include
 - 
 
 # 📝 Projects
-- Fast Clinal Examination of Antibiotic Infections: Image analysis script & Fast Identification
-  Type: SRTP (Research Training for Undergraduates)
-  Status: Preparing for the final defense
-  Co-worker : Minghao Li, Yan Shen
-  Supervisor: Jiahao Xu, Fenni Zhang
+- Fast Clinal Examination of Antibiotic Infections: Image analysis script & Fast Identification <br />
+  Type: SRTP (Research Training for Undergraduates) <br />
+  Status: Preparing for the final defense <br />
+  Co-worker : Minghao Li, Yan Shen <br />
+  Supervisor: Jiahao Xu, Fenni Zhang <br />
 
 - Tumor Boundary Analysis: Casting the characteristics of tumor microenvironments onto Medical Imaging data.
   Type: Self-motivated project
