@@ -17,42 +17,74 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🧍‍♂️ Biography
+I am now an undergraduate student in Zhejiang University. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I set up this personal website for the management of the projects I am attributing to. As a freshman, I am trying to find my rhythm of solving problems through surveying, team-working and feedback receiving from instruction or practice. I am willing to link up all my works under a goal of giving valuable solution to several problems.
+
+Some of my academic writings (either in class or during my reading) will also be updated on this website. The writings I put on this website will be the ones I regard useful to the field. I love writing with paper and pen, so most of the writings will be updated in the form of drafts. Most of the writings has uploaded to the cc98 bbs of Zhejiang University (www.cc98.org) and I will re-edit these document with LaTeX as long as they get enough feedback.
+
+At present, my research interests include 
+- **[Medical Imaging Analysis](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:Medical_Imaging_Analysis)**:
+-
+    If I am stuck in a rut, I will often try to build up the toolkits first. I will try to optimize the toolkits and gain a deeper understanding of the problem 
+- **[Reliability Engineering](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:reliability_engineering)**
+- **[Condition Monitoring](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:condition_monitoring)**
+
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp;🎉🎉 Received the Student Travel Grant from the [PCIM Europe](https://pcim.mesago.com/nuernberg/en/conference.html) 2024 Conference.
+- *2023.12*: &nbsp;🎉🎉 A paper is accepted by the PCIM Europe 2024 Conference. _(EI, Oral)_
+- *2023.09*: &nbsp;🎉🎉 A paper is accepted by the Advanced Engineering Informatics. _(SCI, Q1, IF=8.8)_
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/pfndm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Explainable Neural Dynamics Models for Motor Temperature Prediction](https://doi.org/10.36227/techrxiv.24555889)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ms140429/Explainable-Neural-Dynamics-Model)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xinyuan Liao**, Shaowei Chen, Yunxiang Long, Shuai Zhao*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Keywords**
+- Neural Dynamics Models
+- Stability Constraints
+- State-Space Models
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/aei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Remaining useful life with self-attention assisted physics-informed neural network](https://doi.org/10.1016/j.aei.2023.102195)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/XinyuanLiao/AttnPINN-for-RUL-Estimation)
+
+**Xinyuan Liao**, Shaowei Chen, Pengfei Wen, Shuai Zhao*
+
+**Keywords**
+- Physics-Informed Neural Networks
+- Attention Mechanism
+- Remaining Useful Life
+
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*  PCIM Europe 2024 Conference, Student Travel Grant.
+- *2023.10*  Northwestern Polytechnical University, Second Prize Scholarship.
+- *2023.09*  The 14th Challenge Cup (Growth Challenge), Provincial First Prize.
+- *2022.10*  Northwestern Polytechnical University, First Prize Scholarship.
+- *2021.10*  Ocean University of China, First Prize Scholarship.
+- *2021.10*  Ocean University of China, Model Student of Academic Records.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - (now)*, M.S. Northwestern Polytechnical University, Information and Telecommunication Engineering. 
+- *2018.09 - 2022.06*, B.S. Ocean University of China, Computer Science and Technology.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🗺️ Visitor Map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
