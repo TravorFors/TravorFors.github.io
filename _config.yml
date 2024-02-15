@@ -27,9 +27,9 @@ author:
   location         : "HangZhou, ZheJiang, China"
   employer         :
   pubmed           : 
-  googlescholar    : "To be filled..."
+  googlescholar    : # "To be filled..."
   email            : "flying_paperkite@hotmail.com"
-  researchgate     : "To be filled..."
+  researchgate     : # "To be filled..."
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "TravorFors"
   google_plus      :
   keybase          :
   instagram        :
