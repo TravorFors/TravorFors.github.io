@@ -35,10 +35,43 @@ At present, my research interests include
 - 
 
 # 📝 Projects
-- 
+- Fast Clinal Examination of Antibiotic Infections: Image analysis script & Fast Identification
+  Type: SRTP (Research Training for Undergraduates)
+  Status: Preparing for the final defense
+  Co-worker : Minghao Li, Yan Shen
+  Supervisor: Jiahao Xu, Fenni Zhang
+
+- Tumor Boundary Analysis: Casting the characteristics of tumor microenvironments onto Medical Imaging data.
+  Type: Self-motivated project
+  Status: On coding
+  Co-worker (at present): Kathy Li, Huanyun Zhang, Yulu Ni, Wen Zhu
+  Supervisor: Dan Wu
+  **[Project Page (coming soon)](https://BoundaryEstimator.github.io/)**
+
+- Toolkits for bio-criticality analysis on Medical Imaging data via RG group theory
+  Type: Self-motivated project for Course Final Assignment (Digital Imaging Processing, 2024 Easter)
+  Status: Preparing
+  Co-worker (at present): Kathy Li
+  **[Project Page (coming soon)](https://Bio-criticality-RGkit.github.io/)**
 
 # 📖 Writings
-- 
+- Graph Illustration of 8051 Microsystems
+  Course: Microcomputer Principles and Applications, 2023 Easter
+  Lecturer: YouZhao Wang, Xiang Tian
+  **[cc98 page](https://www.cc98.org/)**
+- Signals & Systems: Under the perspective of Signal Vector Space
+  Course: Digital Signal Processing, 2023 Michaelmas
+  Lecturer: Jing Zheng
+  **[cc98 page](https://www.cc98.org/)**
+- A uniform skeleton for Medical Imaging
+  Book: Medical Imaging Signals and Systems (Jerry L. Prince and Jonathan M. Links)
+  **[cc98 page](https://www.cc98.org/)**
+  
+- Stochastic Process and Modern Signal Processing
+  **[Course page 1 in bilibili](https://www.bilibili.com/video/BV1wj411k7Tj/?spm_id_from=333.337.search-card.all.click&vd_source=7b5afae343cc001dd31fbe5988ea0623)**
+  **[Course page 2 in bilibili](https://www.bilibili.com/video/BV1zw411c7PC/?spm_id_from=333.999.0.0&vd_source=7b5afae343cc001dd31fbe5988ea0623)**
+  Lecturer: Hao Zhang
+
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
