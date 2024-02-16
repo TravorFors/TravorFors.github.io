@@ -86,5 +86,14 @@ These days, my surveys and projects are mainly centered around these two main th
   **[Course page 2 in bilibili](https://www.bilibili.com/video/BV1zw411c7PC/?spm_id_from=333.999.0.0&vd_source=7b5afae343cc001dd31fbe5988ea0623)** <br />
   Lecturer: Hao Zhang <br />
   
+# 📖 Teaching
+
+Bilibili is a shared "university" for Chinese college students. Currently I has prepared for a winter holiday for a Medical Imaging course for the website seemingly lack of such course. I will fill it in my part-time.
+
+- A uniform skeleton for Medical Imaging <br />
+  Book: Medical Imaging Signals and Systems (Jerry L. Prince and Jonathan M. Links) <br />
+  **[Course page in bilibili (coming soon)](https://www.bilibili.com)** <br />
+  **[Course materials (coming soon)](https://Medical_Imaging.github.io/)** <br />
+  
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
