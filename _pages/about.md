@@ -39,9 +39,9 @@ Neurobiologists were the first to recognize this problem. As medicine advances, 
 These days, my surveys and projects are mainly centered around these two main threads: <br />
 
 - Cortex Analysis: critical points analysis.  <br />
-  *I am a fan of Karl J. Friston although I never hold a firm belief in his free energy principle. However, if possible, I believe such kind of skeleton should either be proved true or falsified by novel MIA approach.
+  *I am a fan of Karl J. Friston although I never hold a firm belief in his free energy principle. However, if possible, I believe such kind of skeleton should either be proved true or falsified by novel MIA approach.  <br />
   
-- Tumor Metastasis Prediction: Pathway imaging & reconstruction, 3D Bio-modeling
+- Tumor Metastasis Prediction: Pathway imaging & reconstruction, 3D Bio-modeling  <br />
   *What's the difference of imaging and modeling? From my perspective, modeling is the process of attaching 'what we predict' to 'what we see'. For individuals, modeling will be more based on imaging rather than anatomical dissection. If biomedical engineers want to raise up more accurate ways for doctors to diagnosis or design treatment programs by modeling a patient, imaging is always the first way. As a result, for bio-geeks, developing imaging approaches under the goal of 'modeling someone' will be an attractive task. For biomedical engineers, that means developing imaging approaches specified for some medical missions.
 
 # 📝 Projects
