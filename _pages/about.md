@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I am an undergraduate student majoring in biomedical engineering. 
+I am an undergraduate student majoring in biomedical engineering. TravorFors is my cc98 ID. Forsyth is a character in the novel Lord of Secrecy, whose profession is a traveller. The cc98 website restrict the ID to 10 bit so I built up a word from 'Traveller' and 'Forsyth'.
 
 I set up this personal website for the management of the projects I am attributing to. I am trying to find my rhythm of solving problems through surveying, team-working and feedback receiving from instruction or practice. Linking up all my works under a shared goal of giving valuable solution to several problems is beneficial for the process of my projects, so I set up this website as a travel log.
 
