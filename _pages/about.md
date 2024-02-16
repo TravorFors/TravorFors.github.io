@@ -47,21 +47,25 @@ These days, my surveys and projects are mainly centered around these two main th
 # 📝 Projects
 - Fast Clinal Examination of Antibiotic Infections: Image analysis script & Fast Identification <br />
   Type: Assistant in project, SRTP (Research Training for Undergraduates) <br />
+  Field: Digital Image Process, Biosensors  <br />
   Status: Preparing for the final defense <br />
   Co-worker : Minghao Li, Yan Shen <br />
   Supervisor: Jiahao Xu, Fenni Zhang <br />
+  Funds: 487/2000 Yuan  <br />
 
 - Tumor Boundary Analysis: Casting the characteristics of tumor microenvironments onto Medical Imaging data. <br />
-  Type: Self-motivated project <br />
+  Type: Self-directed project <br />
+  Field: MIA <br />
   Status: On coding <br />
-  Co-worker (at present): Kathy Li, Huanyun Zhang, Yulu Ni, Wen Zhu <br />
+  Co-worker (at present): Kathy Li, Wen Zhu, Huanyun Zhang, Yulu Ni <br />
   Supervisor: Dan Wu <br />
   **[Project Page (coming soon)](https://BoundaryEstimator.github.io/)** <br />
 
 - Toolkits for bio-criticality analysis on Medical Imaging data via RG group theory <br />
-  Type: Self-motivated project for Course Final Assignment (Digital Imaging Processing, 2024 Easter) <br />
+  Type: Self-directed project for Course Final Assignment (Digital Imaging Processing, 2024 Easter) <br />
   Status: Preparing <br />
   Co-worker (at present): Kathy Li <br />
+  Funds: 0  <br />
   **[Project Page (coming soon)](https://Bio-criticality-RGkit.github.io/)** <br />
 
 # 📖 Writings
