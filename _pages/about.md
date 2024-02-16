@@ -49,7 +49,7 @@ These days, my surveys and projects are mainly centered around these two main th
   Type: Assistant in project, SRTP (Research Training for Undergraduates) <br />
   Field: Digital Image Process, Biosensors  <br />
   Status: Preparing for the final defense <br />
-  Co-worker : Minghao Li, Yan Shen <br />
+  Co-worker : Minghao Li (Top scorer), Yan Shen (Team leader) <br />
   Supervisor: Jiahao Xu, Fenni Zhang <br />
   Funds: 487/2000 Yuan  <br />
 
