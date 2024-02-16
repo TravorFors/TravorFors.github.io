@@ -87,8 +87,8 @@ These days, my surveys and projects are mainly centered around these two main th
 For cross-disciplinary practitioners, build up a knowledge bank is as important as showing how much coding languages I mastered. <br />
 
 - Programming language:   <br />
-  (Love to use) MATLAB, Python.  <br />
-  (Has done projects with) 89C, Javascript.  <br />
+  (Love to use) MATLAB, Python, R.  <br />
+  (Has done projects with) 89C, Javascript(ImageJ), Javascript(Wechat).  <br />
   (Doing projects with) C51.  <br />
 
 - Basic mathematical knowledegs of: <br />
