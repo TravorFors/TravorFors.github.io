@@ -20,7 +20,7 @@ redirect_from:
 # 🧍‍♂️ Biography
 I am an undergraduate student majoring in biomedical engineering. 
 
-I set up this personal website for the management of the projects I am attributing to. I am trying to find my rhythm of solving problems through surveying, team-working and feedback receiving from instruction or practice. Linking up all my works under a shared goal of giving valuable solution to several problems is beneficial for the process of my projects, so I set up this website as a journal.
+I set up this personal website for the management of the projects I am attributing to. I am trying to find my rhythm of solving problems through surveying, team-working and feedback receiving from instruction or practice. Linking up all my works under a shared goal of giving valuable solution to several problems is beneficial for the process of my projects, so I set up this website as a travel log.
 
 Some of my academic writings (either in class or during my reading) will also be updated on this website. The writings I put on this website will be the ones I regard useful to the field. I love writing with paper and pen, so most of the writings will be updated in the form of drafts. Most of the writings has uploaded to the cc98 bbs of Zhejiang University (www.cc98.org) and I will re-edit these document with LaTeX as long as they get enough feedback.
 
@@ -38,7 +38,7 @@ From my point of view, medical imaging can build up a link between the structure
 
 These days, my surveys and projects are mainly centered around these two main threads: <br />
 
-- Cortex Analysis: critical points analysis.  <br />
+- Cortex Analysis: transfer of critical points.  <br />
   *I am a fan of Karl J. Friston although I never hold a firm belief in his free energy principle. However, if possible, I believe such kind of skeleton should either be proved true or falsified by novel MIA approach.  <br />
   
 - Tumor Metastasis Prediction: Pathway imaging & reconstruction, 3D Bio-modeling  <br />
