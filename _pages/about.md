@@ -24,15 +24,25 @@ I set up this personal website for the management of the projects I am attributi
 
 Some of my academic writings (either in class or during my reading) will also be updated on this website. The writings I put on this website will be the ones I regard useful to the field. I love writing with paper and pen, so most of the writings will be updated in the form of drafts. Most of the writings has uploaded to the cc98 bbs of Zhejiang University (www.cc98.org) and I will re-edit these document with LaTeX as long as they get enough feedback.
 
-At present, my research interests include 
-- **[Medical Imaging Analysis](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:Medical_Imaging_Analysis)**: <br />
-    If I am stuck in a rut, I will often try to build up the toolkits first. I will try to optimize the toolkits and gain a deeper understanding of the problem 
-- **[Reliability Engineering](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:reliability_engineering)**
-- **[Condition Monitoring](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:condition_monitoring)**
-
 # 🔥 Research Topics & Possible breakpoints
-- Cortex Analysis: RG theory for critical points
-- Tumor Metastasis Prediction: Pathway imaging & maximum-likelihood reconstruction, 3D Bio-modeling by NeRF+GNN
+
+Currently my research mainly focus on Medical Image Analysis. <br />
+
+*A winter night when I was five years old, my mom served me a bowl of carp soup. I raised up a problem: Is it true that the spines of every fish grow in exactly the same place? <br />
+
+Over thousands of years, orthopedic surgeons have figured out the shape, structure, and growth position of every bone in the human body. For a healthy person, bones should always be where they should be to meet the demands of the corresponding functions. Each of them might be different in a small statistical interval, but the structure should always be the same. We may say that, within the margin of error, every human bone 'grows in the same place'. <br />
+
+However, in other fields of medicine, the structure might be less quantified compared to the modern technique. Doctors memorize the anatomical atlases in a rather qualitative point of view. Some of the diseases diagnostic methods, or human body functions are dismissed under this status, like small interosseous spines of the carp in the bowl. For example, diagnosis of early cancer or metastases calls for a dynamic, more elaborate analysis of tissue structures, circulation and functions of immune system (which is one of my current research interest). Brain structure analysis was another field which was famous for demands of higher space-resolution, more modern mathematical tools.<br />
+
+Neurobiologists were the first to recognize this problem. As medicine advances, physicians will also develop a need for a more refined and quantitative understanding of anatomical structure and function. From my point of view, medical imaging can build up a link with the structure and the physics. Functional imaging re-defined what imaging approaches can do since 1990s. Machine learning methods, on the other hand, are considered by most of the pioneers in the field to be leading a second revolution in imaging. <br />
+
+These days, my surveys and projects are mainly centered around these two main threads: <br />
+
+- Cortex Analysis: critical points analysis.  <br />
+  *I am a fan of Karl J. Friston although I never hold a firm belief in his free energy principle. However, if possible, I believe such kind of skeleton should either be proved true or falsified by novel MIA approach.
+  
+- Tumor Metastasis Prediction: Pathway imaging & reconstruction, 3D Bio-modeling
+  *What's the difference of imaging and modeling? From my perspective, modeling is the process of attaching 'what we predict' to 'what we see'. For individuals, modeling will be more based on imaging rather than anatomical dissection. If biomedical engineers want to raise up more accurate ways for doctors to diagnosis or design treatment programs by modeling a patient, imaging is always the first way. As a result, for bio-geeks, developing imaging approaches under the goal of 'modeling someone' will be an attractive task. For biomedical engineers, that means developing imaging approaches specified for some medical missions.
 
 # 📝 Projects
 - Fast Clinal Examination of Antibiotic Infections: Image analysis script & Fast Identification <br />
