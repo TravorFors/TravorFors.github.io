@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I am now an undergraduate student in Zhejiang University. 
+I am an undergraduate student majoring in biomedical engineering. 
 
-I set up this personal website for the management of the projects I am attributing to. At the beginning of my research, I am trying to find my rhythm of solving problems through surveying, team-working and feedback receiving from instruction or practice. I am willing to link up all my works under a shared goal of giving valuable solution to several problems.
+I set up this personal website for the management of the projects I am attributing to. I am trying to find my rhythm of solving problems through surveying, team-working and feedback receiving from instruction or practice. Linking up all my works under a shared goal of giving valuable solution to several problems is beneficial for the process of my projects, so I set up this website as a journal.
 
 Some of my academic writings (either in class or during my reading) will also be updated on this website. The writings I put on this website will be the ones I regard useful to the field. I love writing with paper and pen, so most of the writings will be updated in the form of drafts. Most of the writings has uploaded to the cc98 bbs of Zhejiang University (www.cc98.org) and I will re-edit these document with LaTeX as long as they get enough feedback.
 
@@ -28,11 +28,11 @@ Some of my academic writings (either in class or during my reading) will also be
 
 Currently my research mainly focus on Medical Image Analysis. <br />
 
-*A winter night when I was five years old, my mom served me a bowl of carp soup. I raised up a problem: Is it true that the spines of every fish grow in exactly the same place? <br />
+*A winter night when I was five years old, my mom served me a bowl of carp soup. I raised a problem to her: Is it true that the spines of every fish grow in exactly the same place? <br />
 
 Over thousands of years, orthopedic surgeons have figured out the shape, structure, and growth position of every bone in the human body. For a healthy person, bones should always be where they should be to meet the demands of the corresponding functions. Each of them might be different in a small statistical interval, but the structure should always be the same. We may say that, within the margin of error, every human bone 'grows in the same place'. <br />
 
-However, in other fields of medicine, the structure might be less quantified compared to the modern technique. Doctors memorize the anatomical atlases in a rather qualitative point of view. Some of the diseases diagnostic methods, or human body functions are dismissed under this status, like small interosseous spines of the carp in the bowl. For example, diagnosis of early cancer or metastases calls for a dynamic, more elaborate analysis of tissue structures, circulation and functions of immune system (which is one of my current research interest). Brain structure analysis was another field which was famous for demands of higher space-resolution, more modern mathematical tools.<br />
+However, in other fields of medicine, the structure might be less quantified under the modern perspective. Medical students still memorize the anatomical atlases in a qualitative point of view. Just like small interosseous spines of the carp in the bowl, some of the un-quantified structures may 'stuck you' in the way to better understandings of body functions or better treatments to diseases. For example, diagnosis of early cancer or metastases calls for a dynamic, more elaborate analysis of tissue structures, circulation and functions of immune system (which is one of my current research interest). Brain structure analysis was another field which was famous for demands of higher space-resolution, more modern mathematical tools.<br />
 
 Neurobiologists were the first to recognize this problem. As medicine advances, physicians will also develop a need for a more refined and quantitative understanding of anatomical structure and function. From my point of view, medical imaging can build up a link with the structure and the physics. Functional imaging re-defined what imaging approaches can do since 1990s. Machine learning methods, on the other hand, are considered by most of the pioneers in the field to be leading a second revolution in imaging. <br />
 
