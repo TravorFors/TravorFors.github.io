@@ -96,4 +96,4 @@ Bilibili is a shared "university" for Chinese college students. Currently I has 
   **[Course materials (coming soon)](https://Medical_Imaging.github.io/)** <br />
   
 # 🗺️ Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=503558mbgvy&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5l1j5s5u3vz&amp;m=0&amp;c=00fff6&amp;cr1=ff00ff&amp;f=arial&amp;l=33" async="async"></script>
