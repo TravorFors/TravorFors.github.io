@@ -32,9 +32,9 @@ Currently my research mainly focus on Medical Image Analysis. <br />
 
 Over thousands of years, orthopedic surgeons have figured out the shape, structure, and growth position of every bone in the human body. For a healthy person, bones should always be where they should be to meet the demands of the corresponding functions. Each of them might be different in a small statistical interval, but the structure should always be the same. We may say that, within the margin of error, every human bone 'grows in the same place'. <br />
 
-However, in other fields of medicine, the structure might be less quantified under the modern perspective. Medical students still memorize the anatomical atlases in a qualitative point of view. Just like small interosseous spines of the carp in the bowl, some of the un-quantified structures may 'stuck you' in the way to better understandings of body functions or better treatments to diseases. For example, diagnosis of early cancer or metastases calls for a dynamic, more elaborate analysis of tissue structures, circulation and functions of immune system (which is one of my current research interest). Brain structure analysis was another field which was famous for demands of higher space-resolution, more modern mathematical tools.<br />
+However, in other fields of medicine, the structure might be less quantified under the modern perspective. Medical students still memorize the anatomical atlases in a qualitative point of view. Just like small interosseous spines of the carp in the bowl, some of the un-quantified structures may 'stuck you' in the way to better understandings of body functions or better treatments to diseases. Brain structure analysis was another field which was famous for demands of higher space-resolution, more modern mathematical tools. We can see that neurobiologists were always the firsts to recognize this problem. As medicine advances, physicians will also develop a need for a more refined and quantitative understanding of anatomical structure and function. For example, diagnosis of early cancer or metastases calls for a dynamic, more elaborate analysis of tissue structures, circulation and functions of immune system (which is one of my current research interest). <br />
 
-Neurobiologists were the first to recognize this problem. As medicine advances, physicians will also develop a need for a more refined and quantitative understanding of anatomical structure and function. From my point of view, medical imaging can build up a link with the structure and the physics. Functional imaging re-defined what imaging approaches can do since 1990s. Machine learning methods, on the other hand, are considered by most of the pioneers in the field to be leading a second revolution in imaging. <br />
+From my point of view, medical imaging can build up a link between the structure and the physic laws. Functional imaging re-defined what imaging approaches can do since 1990s. Machine learning methods, on the other hand, are considered by most of the pioneers in the field to be leading a second revolution in imaging. As beginners to the field, I place myself as a learner and a consolidator of the knowledges. I may use the cross-field knowledges to reveal the unsolved, only developing something new when needed to come over the obstacles in the journey. <br />
 
 These days, my surveys and projects are mainly centered around these two main threads: <br />
 
@@ -82,6 +82,42 @@ These days, my surveys and projects are mainly centered around these two main th
   **[Course page 2 in bilibili](https://www.bilibili.com/video/BV1zw411c7PC/?spm_id_from=333.999.0.0&vd_source=7b5afae343cc001dd31fbe5988ea0623)** <br />
   Lecturer: Hao Zhang <br />
 
+# 📖 Knowledge tree: Mastered, needing further proficiency or need but still learning:
 
+For cross-disciplinary practitioners, build up a knowledge bank is as important as showing how much coding languages I mastered. <br />
+
+- Programming language:   <br />
+  (Love to use) MATLAB, Python.  <br />
+  (Has done projects with) 89C, Javascript.  <br />
+  (Doing projects with) C51.  <br />
+
+- Basic mathematical knowledegs of: <br />
+  (Mastered) A 'cerebellar reaction' to: Basic mathematical analysis, Linear algebra, Probability theory, Basic statistics. 
+  An overall knowledge of Complex Analysis, mainly for the demand of Digital Signal Processing.  <br />
+  (Needing further proficiency) Differential Equation, mainly for the demand of Electrodynamics.  <br />
+  (Still learning) Functional analysis, mainly for the demand of Pattern Recognition.  <br />
+  (Doing further proficiency) Advanced Algebra.  <br />
+  (Still learning) stochastic process.  <br />
+  
+- Basic physic knowledges of:  <br />
+  (Cerebellar reaction) Mechanics, electromagnetism, optics.  <br />
+  (Learning in this semester) Electrodynamics. <br />
+  (Planning to learn) statistical mechanics.  <br />
+  (Still learning) quantum mechanics.  <br />
+  
+- Electronics:  <br />
+  (Cerebellar reaction) Circuit Principles, Basic digital circuit, 8051 microsystems.  <br />
+  (Learning in this semester)  Basic analog circuit.   <br />
+  (Learning in this semester)  Bio-electronics and biosensors.   <br />
+
+- Signals & Systems:  <br />
+  (Cerebellar reaction) Digital Signal Processing. <br />
+  An overall knowledge of modern control theory.  <br />
+  (Learning in this semester)  Digital Image Processing.   <br />
+  (Still learning)  Wireless Communication.   <br />
+  (Still learning)  Modern Signal Processing.   <br />
+
+- Pattern recognition and Machine learning    <br />
+  
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
