@@ -24,7 +24,7 @@ I set up this personal website for the management of the projects I am attributi
 
 Some of my academic writings (either in class or during my reading) will also be updated on this website. The writings I put on this website will be the ones I regard useful to the field. I love writing with paper and pen, so most of the writings will be updated in the form of drafts. Most of the writings has uploaded to the cc98 bbs of Zhejiang University (www.cc98.org) and I will re-edit these document with LaTeX as long as they get enough feedback.
 
-# 🔥 Research Topics & Possible breakpoints
+# 🔥 Research Topics
 
 Currently my research mainly focus on Medical Image Analysis. <br />
 
@@ -45,7 +45,7 @@ These days, my surveys and projects are mainly centered around these two main th
   *What's the difference of imaging and modeling? From my perspective, modeling is the process of attaching 'what we predict' to 'what we see'. For individuals, modeling will be more based on imaging rather than anatomical dissection. If biomedical engineers want to raise up more accurate ways for doctors to diagnosis or design treatment programs by modeling a patient, imaging is always the first way. As a result, for bio-geeks, developing imaging approaches under the goal of 'modeling someone' will be an attractive task. For biomedical engineers, that means developing imaging approaches specified for some medical missions.
 
 # 📝 Projects
-- Fast Clinal Examination of Antibiotic Infections: Image analysis script & Fast Identification <br />
+- Fast Clinal Examination of Antibiotic Infections: Image analysis script & Fast Strain Identification <br />
   Type: Assistant in project, SRTP (Research Training for Undergraduates) <br />
   Field: Digital Image Process, Biosensors  <br />
   Status: Preparing for the final defense <br />
