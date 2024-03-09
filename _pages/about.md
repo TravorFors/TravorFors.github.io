@@ -64,7 +64,7 @@ These days, my surveys and projects are mainly centered around these two main th
 - Toolkits for bio-criticality analysis on Medical Imaging data via RG group theory <br />
   Type: Self-directed project for Course Final Assignment (Digital Imaging Processing, 2024 Easter) <br />
   Status: Preparing <br />
-  Co-worker (at present): Rui Qian, Baorong Gu, Leheng Qiu, Jiali Wu <br />
+  Co-worker : Rui Qian, Baorong Gu, Leheng Qiu, Jiali Wu <br />
   Funds: 0 (I will be the funder of this project so don't worry haha)  <br />
   **[Project Page (coming soon)](https://Bio-criticality-RGkit.github.io/)** <br />
 
