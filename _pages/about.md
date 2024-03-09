@@ -56,7 +56,7 @@ These days, my surveys and projects are mainly centered around these two main th
 - Tumor Boundary Analysis: Casting the characteristics of tumor microenvironments onto Medical Imaging data. <br />
   Type: Self-directed project <br />
   Field: MIA <br />
-  Status: On coding <br />
+  Status: Multi-label learning preparing for BraTS 2024; Tumor infiltration assessment on coding; Metastasis tracing is preparing. <br />
   Co-worker (at present): Kathy Li, Wen Zhu, Huanyun Zhang, Yulu Ni <br />
   Supervisor: Dan Wu <br />
   **[Project Page (coming soon)](https://BoundaryEstimator.github.io/)** <br />
