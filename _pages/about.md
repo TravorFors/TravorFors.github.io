@@ -72,14 +72,14 @@ These days, my surveys and projects are mainly centered around these two main th
 - Graph Illustration of 8051 Microsystems <br />
   Course: Microcomputer Principles and Applications, 2023 Easter <br />
   Lecturer: YouZhao Wang, Xiang Tian <br />
-  **[cc98 page](https://www.cc98.org/)** <br />
+  **[cc98 page](https://www.cc98.org/topic/5640479)** <br />
 - Signals & Systems: Under the perspective of Signal Vector Space <br />
   Course: Digital Signal Processing, 2023 Michaelmas <br />
   Lecturer: Jing Zheng <br />
-  **[cc98 page](https://www.cc98.org/)** <br />
+  **[cc98 page](https://www.cc98.org/topic/5735494)** <br />
 - A uniform skeleton for Medical Imaging <br />
   Book: Medical Imaging Signals and Systems (Jerry L. Prince and Jonathan M. Links) <br />
-  **[cc98 page](https://www.cc98.org/)** <br />
+  **[cc98 page](https://www.cc98.org/topic/5735488)** <br />
   
 - Stochastic Process and Modern Signal Processing <br />
   **[Course page 1 in bilibili](https://www.bilibili.com/video/BV1wj411k7Tj/?spm_id_from=333.337.search-card.all.click&vd_source=7b5afae343cc001dd31fbe5988ea0623)** <br />
