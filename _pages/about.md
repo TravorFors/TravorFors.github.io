@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I am an undergraduate student majoring in biomedical engineering. TravorFors is my cc98 ID. Forsyth is a character in the novel Lord of Secrecy, whose profession is a traveller. The cc98 website restrict the ID to 10 bit so I built up a word from 'Traveller' and 'Forsyth'.
+I am now an undergraduate student majoring in biomedical engineering. TravorFors is my cc98 ID. Forsyth is a character in the novel Lord of Secrecy, whose profession is a traveller. The cc98 website restrict the length of IDs to 10 bit so I built up a word from 'Traveller' and 'Forsyth'. 
 
-I set up this personal website for the management of the projects I am attributing to. I am trying to find my rhythm of solving problems through surveying, team-working and feedback receiving from instruction or practice. Linking up all my works under a shared goal of giving valuable solution to several problems is beneficial for the process of my projects, so I set up this website as a travel log.
+I set up this personal website mainly for the goal of having a proper management of my projects. The website is helping me linking up all my works under a shared goal of giving valuable solution to several problems. I am willing to express my sincere thanks to all of you click into this website. Thanks for your attention of my half-baked academic recognitions and possible wills to follow up my work. Hopefully what I write on this website can come out with some help on what we may both feel confused with all along.
 
 Some of my academic writings (either in class or during my reading) will also be updated on this website. The writings I put on this website will be the ones I regard useful to the field. I love writing with paper and pen, so most of the writings will be updated in the form of drafts. Most of the writings has uploaded to the cc98 bbs of Zhejiang University (www.cc98.org) and I will re-edit these document with LaTeX as long as they get enough feedback.
 
