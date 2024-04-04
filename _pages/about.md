@@ -44,7 +44,7 @@ However, in other fields of medicine, the structure might be less quantified und
 
 From my point of view, medical imaging can build up a link between the structure and the physic laws. Functional imaging re-defined what imaging approaches can do since 1990s. Machine learning methods, on the other hand, are considered by most of the pioneers in the field to be leading a second revolution in imaging. An age for medical imaging changing the definition of medicine is coming into the skyline. <br />
 
-Yesterday we savages did the surgery like swallowing meats and bones. Today we design the surgery with a static knowledge bank like a instruction manual. We may design the clinical protocol under the guidance of accurate understandings of individuals and have a proper interaction with dynamic behaviors of our patient, like epicures remembering how the spikes criss-crosses in the carp meat. For this vision, Medical Imaging is all your need. <br />
+Yesterday we savages did the surgery like swallowing meats and bones in a feast. Today we design the surgery with a static knowledge banks like a instruction manual, experience is all we have. We may design the clinical protocol under the guidance of accurate understandings of individuals and have a proper interaction with dynamic behaviors of our patient, like epicures remembering how the spikes criss-crosses in the carp meat. For this vision, Medical Imaging is all your need. <br />
 
 # 📝 Projects
 - Fast Clinal Examination of Antibiotic Infections: Image analysis script & Fast Strain Identification <br />
