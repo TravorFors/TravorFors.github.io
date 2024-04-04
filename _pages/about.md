@@ -67,7 +67,7 @@ Yesterday we savages did the surgery like swallowing meats and bones in a feast.
   Status: Having a pipeline. Coding on ADNI database. <br />
   Co-worker : Rui Qian, Baorong Gu, Leheng Qiu, Jiali Wu <br />
   Funds: 0 (I will be the funder of this project so don't worry haha)  <br />
-  Supervisor: Dan Wu
+  Supervisor: Dan Wu <br />
   **[Project Page (coming soon)](https://Bio-criticality-RGkit.github.io/)** <br />
 
 # 📖 Writings
