@@ -60,7 +60,6 @@ Yesterday we savages did the surgery like swallowing meats and bones in a feast.
   Field: MIA <br />
   Status: Multi-label learning preparing for BraTS 2024; Tumor infiltration assessment on coding; Metastasis tracing is preparing. <br />
   Co-worker (at present): Kathy Li, Wen Zhu, Huanyun Zhang, Yulu Ni <br />
-  Supervisor: Dan Wu <br />
   **[Project Page (coming soon)](https://BoundaryEstimator.github.io/)** <br />
 
 - Toolkits for bio-criticality analysis on Medical Imaging data via RG group theory <br />
